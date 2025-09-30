@@ -39,8 +39,8 @@ Graduate Student in Business Analytics | SQL • Python • Tableau • Machine 
 
 ## 📫 Let’s Connect!
 
-* [LinkedIn](#)
-* [Email](#)
+*[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)*
+* [Email](dharricks1209@gmail.com)*
 
 ---
 
